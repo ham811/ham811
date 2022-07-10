@@ -4,10 +4,8 @@ Geospatial Analyst
 
 [![GitHub Badge](https://img.shields.io/github/followers/ham811?style=social)](https://github.com/ham811?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/amachnoug?style=social)](https://twitter.com/amachnoug)
-
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCrMpGcLpn2LTNwcG6fd9oMg)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/hamid-a-69376612b/)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ham811.ham811)
 
 I am a Master's student at the [University of Eberswalde](https://www.hnee.de), Germany. Thoroughout my years of study, I gained experience in both academic and professional experience in the GIS and RS real applications. I have experience working on different RS-related topics and projects. And I am hard-working with both analytical and problem-solving skills. What can I do? All environmental and urban-related analysis and features' computations, density assumptions, urban mapping, landslides, LUCC. Pre-plan/urban calculations, infrastructures, ground truth, earth features, parameterization, 3D simulations and enivornmental modelling.
