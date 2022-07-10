@@ -60,3 +60,10 @@ My resumee and More information about my research and career can be found on my 
 
 - BSc. Geology
   - [Faculty of science – Ibn Zohr University Agadir](https://www.uiz.ac.ma/faculte-des-sciences-agadir) - Morocco
+
+## GitHub Stats
+
+![github stats](https://github-readme-stats.vercel.app/api?username=ham811&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ham811&langs_count=3&hide=javascript,go,html,css,tex)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giswqs&hide_langs_below=10) -->
