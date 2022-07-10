@@ -23,10 +23,31 @@ My resumee and More information about my research and career can be found on my 
 
 ## Tools
 
-▪ Proficiency with database programming languages: PostGIS, PostgreSQL, Oracle
-▪ Python: TensorFlow, Keras, GDAL, Geopandas, Numpy, Matplotlib, Scipy
-▪ Experience with GIS tools such as QGIS, ArcGIS, Snap
-▪ Cloud computing tools: Google Earth Engine
-▪ Web Development: HTML5, CSS3 (TailWind, SCSS), JAVASCRIPT (React, Evalscript V3)
-▪ Good command of office suite (word processor, spread sheet, presentation software)
-▪ Experience with Topographic measuring tools (Total Stations, GPS)
+- Proficiency with database programming languages: PostGIS, PostgreSQL, Oracle
+- Python: TensorFlow, Keras, GDAL, Geopandas, Numpy, Matplotlib, Scipy
+- Experience with GIS tools such as QGIS, ArcGIS, Snap
+- Cloud computing tools: Google Earth Engine
+- Web Development: HTML5, CSS3 (TailWind, SCSS), JAVASCRIPT (React, Evalscript V3)
+- Good command of office suite (word processor, spread sheet, presentation software)
+- Experience with Topographic measuring tools (Total Stations, GPS)
+
+## Latest works
+
+LUCC using GEE and machine learning algorithms (Master Thesis)
+Geospatial analysis and consultancy (RTLAB - Poland)
+Freelance GIS expert (Land use change and envirnmental modelling)
+Forest Gap Modelling using Simulated LiDAR and Real Airborne LiDAR data (UFZ Leipzig)
+
+## Education
+
+- M.Sc. Forest Information Technology
+  University for Sustainable Development Eberswalde - Germany
+
+- M.Sc. Forest Information Technology
+  Warsaw University of Life Sciences WULS - Poland
+
+- M.Sc. Geoscience and Environment
+  Faculty of science – Abdelmaled Essaadi University Tetouan - Morocco
+
+- BSc. Geology
+  Faculty of science – Ibn Zohr University Agadir - Morocco
